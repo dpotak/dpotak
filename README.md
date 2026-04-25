@@ -41,6 +41,8 @@ Working MagicalVoxel:
 - Converting a MagicaVoxel file to .obj
 
 
+
+
 ## IT-practice System Administrator
 Tallinna Tondiraba Huvikool - Intern
 ### December 2023 - June 2024
