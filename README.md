@@ -36,7 +36,7 @@ Manga--Chan--Anime--Chan  - Freelance
   – Ansible automation
   – automated setup of Apache2 and MongoDB using Ansible + Docker
 
-Working MagicalVoxel:
+- Working MagicalVoxel:
 - Creating a logo shape for a website
 - Converting a MagicaVoxel file to .obj
 
