@@ -1,5 +1,5 @@
 # Hi , I'm Darja Potak 👋
-## I'm a Junior Full-Stack Developer. I'm interested working new projects.
+## I'm a Junior Full-Stack Developer and Junior IT-Specialist. I'm interested working new projects.
 
 # 🛠️ Tech Stack
 - Operating Systems: Windows 10/11/7 , Windows Server 2016/2019 , Linux Ubuntu (desktop and server) and Centos 7
