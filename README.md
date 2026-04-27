@@ -8,6 +8,7 @@
 - Data Base: MongoDB , Xammp , MariaDB , MySQL
 - Version Control: Git
 - Virtual Systems: VirtualBox , Vagrant , HyperV
+- Infrastructure as Code (IaC): Ansible
 
 
 # Hands-on Experience 💻 
