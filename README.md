@@ -9,6 +9,8 @@
 - Version Control: Git
 - Virtual Systems: VirtualBox , Vagrant , HyperV
 - Infrastructure as Code (IaC): Ansible
+- Programering languages: Python , Java(elementary) , C#(elementary)
+- Script: PowerShell , Bash
 
 
 # Hands-on Experience 💻 
