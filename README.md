@@ -15,37 +15,6 @@
 
 # Hands-on Experience 💻 
 
-## Full-Stack Developer (Personal Project)
-Manga--Chan--Anime--Chan  - Freelance
-### September 2025 - currently
-• End-to-end development of a multilingual web platform (RU / EN / EE)
-• UI/UX design and layout using HTML5 and modern CSS
-• Frontend development with JavaScript and React:
-  – building multilingual pages
-  – optimizing performance
-  – implementing additional interactive features
-
-• Backend development with Python (Flask):
-  – REST API design
-  – data interaction and routing logic
-
-• Version control with Git:
-  – active branching and commits
-  – restoring and maintaining previous versions
-
-• Infrastructure and deployment:
-  – Linux (Ubuntu, CentOS 7)
-  – Docker-based environment
-  – Ansible automation
-  – automated setup of Apache2 and MongoDB using Ansible + Docker
-
-- Working MagicalVoxel:
-- Creating a logo shape for a website
-- Converting a MagicaVoxel file to .obj
-
-
-
-
 ## IT-practice System Administrator
 Tallinna Tondiraba Huvikool - Intern
 ### December 2023 - June 2024
