@@ -4,7 +4,7 @@
 # 🛠️ Tech Stack
 - Operating Systems: Windows 10/11/7 , Windows Server 2016/2019 , Linux Ubuntu (desktop and server) and Centos 7
 - Monitoring: Zabbix
-- React , Vue.js and Next.js (JavaScript) , HTML and CSS (Tailwind) , Three.js 
+- React , Vue.js (elementary) and Next.js (elementary) - (JavaScript) , HTML and CSS (Tailwind) , Three.js 
 - Data Base: MongoDB , Xammp , MariaDB , MySQL
 - Version Control: Git
 - Virtualization: VirtualBox, Hyper-V, Vagrant and WSL
