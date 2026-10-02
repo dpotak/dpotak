@@ -7,7 +7,7 @@
 - React , Vue.js and Next.js (JavaScript) , HTML and CSS (Tailwind) , Three.js 
 - Data Base: MongoDB , Xammp , MariaDB , MySQL
 - Version Control: Git
-- Virtual Systems: VirtualBox , Vagrant , HyperV
+- Virtualization: VirtualBox, Hyper-V, Vagrant and WSL
 - Infrastructure as Code (IaC): Ansible
 - Programering languages: Python , Java(elementary) , C#(elementary)
 - Script: PowerShell , Bash
